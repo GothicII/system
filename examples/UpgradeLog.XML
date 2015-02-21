@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="examples">
+</Property><Property Name="Solution File" Value="E:\gothic2\g2ext_v1-1-0-32.7z\examples\examples.sln">
+</Property><Property Name="Date" Value="2. siječnja 2015.">
+</Property><Property Name="Time" Value="17:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="examples.sln" Description="File successfully backed up as E:\gothic2\g2ext_v1-1-0-32.7z\examples\examples.sln.old">
+</Event><Event ErrorLevel="0" Project="empty_example" Source="empty_example\empty_example.vcproj" Description="Converting project file 'E:\gothic2\g2ext_v1-1-0-32.7z\examples\empty_example\empty_example.vcproj'.">
+</Event><Event ErrorLevel="1" Project="empty_example" Source="empty_example\empty_example.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="empty_example" Source="empty_example\empty_example.vcproj" Description="Done converting to new project file 'E:\gothic2\g2ext_v1-1-0-32.7z\examples\empty_example\empty_example.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="empty_example" Source="empty_example\empty_example.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="external_example" Source="external_example\external_example.vcproj" Description="Converting project file 'E:\gothic2\g2ext_v1-1-0-32.7z\examples\external_example\external_example.vcproj'.">
+</Event><Event ErrorLevel="2" Project="external_example" Source="external_example\external_example.vcproj" Description="File 'E:\gothic2\g2ext_v1-1-0-32.7z\examples\external_example\external_example.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="external_example" Source="external_example\external_example.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="external_example" Source="external_example\external_example.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="examples.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="examples.sln" Description="Converted">
+</Event></UpgradeLog>
