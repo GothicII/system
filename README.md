@@ -38,7 +38,7 @@ Stuff to be implemented:
 ###REQUIREMENTS
 
 - Microsoft Visual C++ runtime 2008 SP1 installed to run (the release version) of G2Ext.
-- Microsoft Visual C++ 2008 SP1 to compile the source code properly.
+- Microsoft Visual C++ 2008 SP1 to compile the source code properly. (We are noe using MSVC 2010 :> )
 - Average/good C++ skills.
 - Python 2.7
 - Basic knowledge of reverse engineering.
